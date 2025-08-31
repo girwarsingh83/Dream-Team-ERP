@@ -1,0 +1,1 @@
+This repository contains the frontend code for the "Dream Team" ERP (Enterprise Resource Planning) system. The application is designed to provide a tailored user experience for different roles within the organization, specifically students and shop managers, through secure login and personalized dashboards.
